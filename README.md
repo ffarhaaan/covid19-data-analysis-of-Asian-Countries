@@ -3,4 +3,4 @@ In this project we will import the datasets of Covid-19 infected rates and visua
 I used python programming and different python modules like pandas,seaborn,matplotlib to anlalyze and visualize the data.
 
 # You Can find the Jupyter Notebook Project Here:
-[Project](covid19-data-analysis-of-Asian-Countries/covid-19_dataanalysis_asia.ipynb) 
+[Project](https://github.com/ffarhaaan/covid19-data-analysis-of-Asian-Countries/blob/master/covid-19_dataanalysis_asia.ipynb) 
