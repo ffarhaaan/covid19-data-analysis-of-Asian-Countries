@@ -5,3 +5,6 @@ I used python programming and different python modules like pandas,seaborn,matpl
 ### You Can find the Jupyter Notebook Project Here:
 [Click Here](https://github.com/ffarhaaan/covid19-data-analysis-of-Asian-Countries/blob/master/covid-19_dataanalysis_asia.ipynb) 
 
+
+![Plot](https://github.com/ffarhaaan/covid19-data-analysis-of-Asian-Countries/blob/master/images/plotofdifferentcountries.JPG)
+
